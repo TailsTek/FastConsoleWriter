@@ -32,6 +32,7 @@ namespace FastConsoleWriter
         
         public void Start(bool disposeonend = false)
         {
+            DisposeOnEnd = disposeonend;
             LinesQueue = new List<Line>();
             Disposed = false;
             Thread = new Thread(new ParameterizedThreadStart(ConsoleWork));
@@ -81,6 +82,5 @@ namespace FastConsoleWriter
                 }
             }
         }
-
     }
 }
