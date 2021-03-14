@@ -8,11 +8,13 @@ namespace FastConsoleWriter
     {
         public bool IsLine;
         public string Text;
+        public ConsoleColor Color;
 
-        public Line(string text, bool isline = false)
+        public Line(string text, ConsoleColor color = ConsoleColor.Gray, bool isline = false)
         {
             Text = text;
             IsLine = isline;
+            Color = color;
         }
     }
 }

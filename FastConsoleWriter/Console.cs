@@ -10,6 +10,7 @@ namespace FastConsoleWriter
         public Thread Thread { get; private set; }
         public bool Disposed { get; private set; }
         public TextWriter TextWriter { get; private set; }
+        public ConsoleColor DefaultForegroundColor { get; set; } = ConsoleColor.Gray;
         private List<Line> LinesQueue;
         private bool DisposeOnEnd;
         public int Count { get { return LinesQueue.Count; } }
@@ -20,13 +21,13 @@ namespace FastConsoleWriter
             //waiter = new ManualResetEvent(false);
         }
 
-        public void Write(object obj)
+        public void Write(object obj, ConsoleColor color = ConsoleColor.Gray)
         {
-            LinesQueue.Add(new Line(obj.ToString()));
+            LinesQueue.Add(new Line(obj.ToString(), color));
         }
-        public void WriteLine(object obj)
+        public void WriteLine(object obj, ConsoleColor color = ConsoleColor.Gray)
         {
-            LinesQueue.Add(new Line(obj.ToString(), true));
+            LinesQueue.Add(new Line(obj.ToString(), color, true));
         }
 
         
@@ -59,7 +60,6 @@ namespace FastConsoleWriter
                     break; // exit on disposed
                 }
 
-
                 var lines = console.LinesQueue;
                 var co = lines.Count;
                 if (co > 0)
@@ -68,9 +68,17 @@ namespace FastConsoleWriter
                     var isline = first.IsLine;
 
                     if (isline)
+                    {
+                        System.Console.ForegroundColor = first.Color;
                         console.TextWriter.WriteLine(first.Text); // write as line
+                        System.Console.ForegroundColor = console.DefaultForegroundColor;
+                    }
                     else
+                    {
+                        System.Console.ForegroundColor = first.Color;
                         console.TextWriter.Write(first.Text); // write to line
+                        System.Console.ForegroundColor = console.DefaultForegroundColor;
+                    }
 
                     lines.Remove(first); // remove from queue
 
