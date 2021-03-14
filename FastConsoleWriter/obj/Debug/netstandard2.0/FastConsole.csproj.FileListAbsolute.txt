@@ -1,0 +1,9 @@
+C:\Users\Denis\source\repos\FastConsole\FastConsole\obj\Debug\netstandard2.0\FastConsole.csprojAssemblyReference.cache
+C:\Users\Denis\source\repos\FastConsole\FastConsole\obj\Debug\netstandard2.0\FastConsole.AssemblyInfoInputs.cache
+C:\Users\Denis\source\repos\FastConsole\FastConsole\obj\Debug\netstandard2.0\FastConsole.AssemblyInfo.cs
+C:\Users\Denis\source\repos\FastConsole\FastConsole\obj\Debug\netstandard2.0\FastConsole.csproj.CoreCompileInputs.cache
+C:\Users\Denis\source\repos\FastConsole\FastConsole\bin\Debug\netstandard2.0\FastConsoleWriter.deps.json
+C:\Users\Denis\source\repos\FastConsole\FastConsole\bin\Debug\netstandard2.0\FastConsoleWriter.dll
+C:\Users\Denis\source\repos\FastConsole\FastConsole\bin\Debug\netstandard2.0\FastConsoleWriter.pdb
+C:\Users\Denis\source\repos\FastConsole\FastConsole\obj\Debug\netstandard2.0\FastConsoleWriter.dll
+C:\Users\Denis\source\repos\FastConsole\FastConsole\obj\Debug\netstandard2.0\FastConsoleWriter.pdb
