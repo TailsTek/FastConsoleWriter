@@ -6,3 +6,4 @@ F:\Gits\FastConsoleWriter\FastConsoleWriter\obj\Release\netstandard2.0\FastConso
 F:\Gits\FastConsoleWriter\FastConsoleWriter\obj\Release\netstandard2.0\FastConsoleWriter.csproj.CoreCompileInputs.cache
 F:\Gits\FastConsoleWriter\FastConsoleWriter\obj\Release\netstandard2.0\FastConsoleWriter.dll
 F:\Gits\FastConsoleWriter\FastConsoleWriter\obj\Release\netstandard2.0\FastConsoleWriter.pdb
+F:\Gits\FastConsoleWriter\FastConsoleWriter\obj\Release\netstandard2.0\FastConsoleWriter.csprojAssemblyReference.cache
