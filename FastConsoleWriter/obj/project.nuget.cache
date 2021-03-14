@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "zXSrTIHL1LESwCu/f5lil8NEmrEpplDSn3rHI4tRye6UP+71z85PD+stAI9Jbfi6S1uWIHvENKfD9TM2F5QOkQ==",
+  "dgSpecHash": "36lQneTXun32MXo0+MZNXH4r/mEIILVFIFfQaU++GxkKfDd0xXJBENJVI2g1yRZFVXab9RO3PU0JOwhn+IxYQw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Denis\\source\\repos\\FastConsole\\FastConsole\\FastConsoleWriter.csproj",
+  "projectFilePath": "F:\\Gits\\FastConsoleWriter\\FastConsoleWriter\\FastConsoleWriter.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Denis\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
     "C:\\Users\\Denis\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"

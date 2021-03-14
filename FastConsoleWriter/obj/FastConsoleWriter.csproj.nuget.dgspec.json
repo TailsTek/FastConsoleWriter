@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Denis\\source\\repos\\FastConsole\\FastConsole\\FastConsoleWriter.csproj": {}
+    "F:\\Gits\\FastConsoleWriter\\FastConsoleWriter\\FastConsoleWriter.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Denis\\source\\repos\\FastConsole\\FastConsole\\FastConsoleWriter.csproj": {
+    "F:\\Gits\\FastConsoleWriter\\FastConsoleWriter\\FastConsoleWriter.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Denis\\source\\repos\\FastConsole\\FastConsole\\FastConsoleWriter.csproj",
+        "projectUniqueName": "F:\\Gits\\FastConsoleWriter\\FastConsoleWriter\\FastConsoleWriter.csproj",
         "projectName": "FastConsoleWriter",
-        "projectPath": "C:\\Users\\Denis\\source\\repos\\FastConsole\\FastConsole\\FastConsoleWriter.csproj",
+        "projectPath": "F:\\Gits\\FastConsoleWriter\\FastConsoleWriter\\FastConsoleWriter.csproj",
         "packagesPath": "C:\\Users\\Denis\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Denis\\source\\repos\\FastConsole\\FastConsole\\obj\\",
+        "outputPath": "F:\\Gits\\FastConsoleWriter\\FastConsoleWriter\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "F:\\Microsoft\\Xamarin\\NuGet\\"

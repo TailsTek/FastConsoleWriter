@@ -1,0 +1,8 @@
+F:\Gits\FastConsoleWriter\FastConsoleWriter\bin\Release\netstandard2.0\FastConsoleWriter.deps.json
+F:\Gits\FastConsoleWriter\FastConsoleWriter\bin\Release\netstandard2.0\FastConsoleWriter.dll
+F:\Gits\FastConsoleWriter\FastConsoleWriter\bin\Release\netstandard2.0\FastConsoleWriter.pdb
+F:\Gits\FastConsoleWriter\FastConsoleWriter\obj\Release\netstandard2.0\FastConsoleWriter.AssemblyInfoInputs.cache
+F:\Gits\FastConsoleWriter\FastConsoleWriter\obj\Release\netstandard2.0\FastConsoleWriter.AssemblyInfo.cs
+F:\Gits\FastConsoleWriter\FastConsoleWriter\obj\Release\netstandard2.0\FastConsoleWriter.csproj.CoreCompileInputs.cache
+F:\Gits\FastConsoleWriter\FastConsoleWriter\obj\Release\netstandard2.0\FastConsoleWriter.dll
+F:\Gits\FastConsoleWriter\FastConsoleWriter\obj\Release\netstandard2.0\FastConsoleWriter.pdb
